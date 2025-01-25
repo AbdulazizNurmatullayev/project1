@@ -1,2 +1,2 @@
 This txt file was opened with develop branch.
-This new line was added from repostory->GitHub
+This new line was added from remote->GitHub
